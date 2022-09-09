@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#section-1 {
+    background: url("img/cover-img.webp") center center/cover;
+    height: 500px;
+    margin: 0 auto;
+}
+
+#section-3 {
+    background: url("/img/ms-bg-img2.jpg") center center/cover;
+    height: 500px;
+    margin: auto;
+}
